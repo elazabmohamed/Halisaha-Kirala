@@ -5,7 +5,7 @@ ob_end_flush();
 <!DOCTYPE HTML>
 <html>
 <head>
-<!-- -->
+<!-- alooooo-->
     <title>Profil</title> 
     <?php include "sabitseyler.php" ?>
 </head>
